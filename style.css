@@ -1,0 +1,24 @@
+.a {
+    list-style-type: circle;
+    background-color: darkgreen;
+    color: aqua;
+}
+
+.b {
+    list-style-type: square;
+    background-color: darkmagenta;
+    color: bisque;
+}
+
+.c {
+    list-style-type: armenian;
+    background-color: darkslategrey;
+    color: burlywood;
+
+}
+
+.d {
+    list-style-type: disc;
+    background-color: rgb(88, 75, 109);
+    color: darkcyan;
+}
